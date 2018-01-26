@@ -19,14 +19,14 @@
     "clean-webpack-plugin": "^0.1.16",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.1",
-    "extract-text-webpack-plugin": "^2.1.0",
+    "extract-text-webpack-plugin": "^2.1.2",
     "node-sass": "^4.5.2",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.11.0",
     "postcss-loader": "^2.0.5",
     "postcss-reporter": "^3.0.0",
     "sass-loader": "^6.0.5",
-    "webpack": "^2.5.1",
+    "webpack": "v3.10.0",
     "webpack-dev-server": "^2.4.5"
   },
   "repository": "https://github.com/sujilnt/jsboilerplate.git"
