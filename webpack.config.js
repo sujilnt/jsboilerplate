@@ -28,7 +28,7 @@ config.module.rules = [{
     test: /\.js$/,
     exclude: exclude,
     loader: 'babel-loader',
-    query: { presets: ['es2015'] }
+    query: { presets: ["env"] }
 }, {
     test: /\.(scss)$/,
     loader: extract({
