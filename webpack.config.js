@@ -28,7 +28,6 @@ config.module.rules = [{
     test: /\.js$/,
     exclude: exclude,
     loader: 'babel-loader',
-    query: { presets: ["env"] }
 }, {
     test: /\.(scss)$/,
     loader: extract({
