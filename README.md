@@ -1,4 +1,4 @@
-# jsboilerplate
+# Js boilerplate
 A boilerplate created for easy use for creating projects ..!
 
 # Specialities , 
